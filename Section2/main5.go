@@ -7,7 +7,7 @@ import "fmt"
 2. We need to tell go we want to create an array of strings and add a bunch of instructions specifically
 	made to work with it
 3. A function with a receiver is like a "method" - a function that belongs to an instance
-4. 	main.go - code o create and manpulate the deck
+4. 	main1.go - code o create and manpulate the deck
 	deck.go - all about the deck
 	deck_test.go - for testing
 */
@@ -28,4 +28,7 @@ func main() {
 
 	fmt.Println(cards.toString())
 	cards.saveToFile("abc.txt")
+	deck := readFromFile("abc.txt")
+	fmt.Println("Printing the Deck")
+	fmt.Println(deck)
 }

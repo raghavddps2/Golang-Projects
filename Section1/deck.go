@@ -3,7 +3,10 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
+	"math/rand"
+	"os"
 	"strings"
+	"time"
 )
 
 /**
@@ -106,4 +109,37 @@ func (d deck) saveToFile(fileName string) error {
 	//0666 basically tells that the file has both read and the write permissions.
 	//This generates the file abc.txt
 	return ioutil.WriteFile(fileName, byteData, 0666)
+}
+
+func readFromFile(filename string) deck {
+
+	byteContent, err := ioutil.ReadFile(filename)
+	if err != nil {
+		fmt.Println("There is an error in the reading of the file")
+		fmt.Println(err)
+		os.Exit(1)
+		return deck{}
+	} else {
+		cardsString := string(byteContent)
+		cards := strings.Split(cardsString, "\n")
+		res := deck(cards)
+		return res
+	}
+}
+
+func (d deck) shuffle() {
+
+	source := rand.NewSource(time.Now().UnixNano())
+	//We will get the rand object and then use rand.r() later to get the random number
+	random_gen := rand.New(source)
+
+	for i, card := range d {
+		//Second time I ran this, I gor the same answer because they are made on some seed value
+		//And this seed value is fixed. So, we need a different way and change the seed value
+
+		//Now, i will get the random values
+		random_num := random_gen.Intn(len(d) - 1)
+		d[i] = d[random_num]
+		d[random_num] = card
+	}
 }

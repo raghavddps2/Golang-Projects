@@ -28,6 +28,6 @@ func main() {
 	}
 }
 
-func newCard() string {
+func newCard1() string {
 	return "Joker"
 }
