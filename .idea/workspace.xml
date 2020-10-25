@@ -20,31 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="484f2f96-d242-4231-aa32-84311cce3dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Go-Udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/main_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section1/deck_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/HelloWorld.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/SumFrom1toN.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/binarySearch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/countOnlyMultiples.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/largestElementInList.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/returnOddElements.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/reverseAList.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/stringPallindrome.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/tableOf12.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/main1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/main3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/main4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/main5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1/hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1/hello.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2/deck.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section1/deck.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section2/main3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section2/main5.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section2/main5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/stack_main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/stack_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section3/practise1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section5/main1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section4/main1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section4/main1.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,58 +71,60 @@
       <recent name="$PROJECT_DIR$/Section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main2.go">
-    <configuration name="go build main1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestPop in stack_test.go">
+    <configuration name="go build main1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Udemy" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Section4/main1.go" />
+      <filePath value="$PROJECT_DIR$/Section5/main1.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPop in stack_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Go-Udemy" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Section4/main2.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go-Udemy" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Assignment1/main.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestGetOddOrEven in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="Go-Udemy" />
-      <working_directory value="$PROJECT_DIR$/Assignment1" />
+      <working_directory value="$PROJECT_DIR$/DataStructures" />
       <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Assignment1/main_test.go" />
-      <pattern value="^\QTestGetOddOrEven\E$" />
+      <filePath value="$PROJECT_DIR$/DataStructures/stack_test.go" />
+      <pattern value="^\QTestPop\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSaveToFileAndReadFromFile in deck_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPush in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Go-Udemy" />
-      <working_directory value="$PROJECT_DIR$/Section1" />
+      <working_directory value="$PROJECT_DIR$/Data-Structures" />
       <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Section1/deck_test.go" />
-      <pattern value="^\QTestSaveToFileAndReadFromFile\E$" />
+      <filePath value="$PROJECT_DIR$/Data-Structures/main_test.go" />
+      <pattern value="^\QTestPush\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go-Udemy" />
+      <working_directory value="$PROJECT_DIR$/Data-Structures" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Data-Structures/main_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go-Udemy" />
+      <working_directory value="$PROJECT_DIR$/DataStructures" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/DataStructures/stack_test.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main2.go" />
-        <item itemvalue="Go Build.go build main1.go" />
-        <item itemvalue="Go Test.TestGetOddOrEven in main_test.go" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Test.TestSaveToFileAndReadFromFile in deck_test.go" />
+        <item itemvalue="Go Test.TestPop in stack_test.go" />
+        <item itemvalue="Go Test.stack_test.go" />
+        <item itemvalue="Go Test.TestPush in main_test.go" />
+        <item itemvalue="Go Test.main_test.go" />
+        <item itemvalue="Go Build.go build main1.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +142,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -168,21 +152,25 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="478" y="330" key="#GOROOT/0.27.1366.741@0.27.1366.741" timestamp="1603477368524" />
-    <state width="1320" height="162" key="GridCell.Tab.0.bottom" timestamp="1603510130284">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603526136987">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603510130284" />
-    <state width="1320" height="162" key="GridCell.Tab.0.center" timestamp="1603510130283">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603526136987" />
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom" timestamp="1603652757738">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603510130283" />
-    <state width="1320" height="162" key="GridCell.Tab.0.left" timestamp="1603510130280">
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603652757738" />
+    <state width="1320" height="162" key="GridCell.Tab.0.center" timestamp="1603652757736">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603510130280" />
-    <state width="1320" height="162" key="GridCell.Tab.0.right" timestamp="1603510130284">
+    <state width="1320" height="162" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603652757736" />
+    <state width="1320" height="162" key="GridCell.Tab.0.left" timestamp="1603652757736">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603510130283" />
+    <state width="1320" height="162" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603652757736" />
+    <state width="1320" height="162" key="GridCell.Tab.0.right" timestamp="1603652757737">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="162" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603652757737" />
   </component>
 </project>

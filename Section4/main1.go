@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /**
-	Data Structure - STruct - Collection of properties that are related together
+	DataStructures Structure - STruct - Collection of properties that are related together
 	struct {
 		suit : string
 		value : string
