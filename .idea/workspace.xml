@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="484f2f96-d242-4231-aa32-84311cce3dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/raghav.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/main1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/main3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/main4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section7/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section7/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
