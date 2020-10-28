@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="484f2f96-d242-4231-aa32-84311cce3dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructures/stack_main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/stack_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section3/practise1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section5/main1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/raghav.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section6/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section6/main1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section6/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section6/main3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section6/main4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section4/main1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Section4/main1.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +74,12 @@
       <recent name="$PROJECT_DIR$/Section1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestPop in stack_test.go">
-    <configuration name="go build main1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main2.go">
+    <configuration name="go build main2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Udemy" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Section5/main1.go" />
+      <filePath value="$PROJECT_DIR$/Section6/main2.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main2.go" />
         <item itemvalue="Go Test.TestPop in stack_test.go" />
         <item itemvalue="Go Test.stack_test.go" />
         <item itemvalue="Go Test.TestPush in main_test.go" />
         <item itemvalue="Go Test.main_test.go" />
-        <item itemvalue="Go Build.go build main1.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,21 +159,21 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603526136987" />
-    <state width="1320" height="162" key="GridCell.Tab.0.bottom" timestamp="1603652757738">
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom" timestamp="1603901048081">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603652757738" />
-    <state width="1320" height="162" key="GridCell.Tab.0.center" timestamp="1603652757736">
+    <state width="1320" height="162" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603901048081" />
+    <state width="1320" height="162" key="GridCell.Tab.0.center" timestamp="1603901048079">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603652757736" />
-    <state width="1320" height="162" key="GridCell.Tab.0.left" timestamp="1603652757736">
+    <state width="1320" height="162" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603901048079" />
+    <state width="1320" height="162" key="GridCell.Tab.0.left" timestamp="1603901048078">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603652757736" />
-    <state width="1320" height="162" key="GridCell.Tab.0.right" timestamp="1603652757737">
+    <state width="1320" height="162" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603901048078" />
+    <state width="1320" height="162" key="GridCell.Tab.0.right" timestamp="1603901048080">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="162" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603652757737" />
+    <state width="1320" height="162" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603901048080" />
   </component>
 </project>
